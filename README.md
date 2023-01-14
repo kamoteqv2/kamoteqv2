@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rolly</h1>
+<h1 align="center">Hi 👋, I'm Rolly and I love to eat Kamote Que!</h1>
 <h3 align="center">Loves to work on automations and embedded devices</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolski&label=Profile%20views&color=0e75b6&style=flat" alt="rolski" /> </p>
