@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kamoteqv2" target="blank"><img src="https://img.shields.io/twitter/follow/kamoteqv2?logo=twitter&style=for-the-badge" alt="kamoteqv2" /></a> </p>
 
-- 🔭 I’m currently working on [IoT](https://github.com/kamoteqv2/kamoteq-repo)
+- 🔭 I’m currently working on [KAMOTEQ esp8266 nodeMCU firmware](https://github.com/kamoteqv2/kamoteq-repo)
 
 - 🌱 I’m currently learning **Frameworks, Javascript, PHP and etc.**
 
