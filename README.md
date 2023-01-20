@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamoteqv2&label=Profile%20views&color=0e75b6&style=flat" alt="kamoteqv2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolski" alt="rolski" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamoteqv2" alt="kamoteqv2" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rolski" target="blank"><img src="https://img.shields.io/twitter/follow/rolski?logo=twitter&style=for-the-badge" alt="rolski" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kamoteqv2" target="blank"><img src="https://img.shields.io/twitter/follow/rolski?logo=twitter&style=for-the-badge" alt="kamoteqv2" /></a> </p>
 
 - 🔭 I’m currently working on [IoT](http://192.168.100.26:8181/settings/)
 
