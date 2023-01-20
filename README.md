@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rolly and I love to eat Kamote Que!</h1>
 <h3 align="center">Loves to work on automations and embedded devices</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rolski&label=Profile%20views&color=0e75b6&style=flat" alt="rolski" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamoteqv2&label=Profile%20views&color=0e75b6&style=flat" alt="kamoteqv2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolski" alt="rolski" /></a> </p>
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [http://myproject.blog](http://myproject.blog)
 
-- 📫 How to reach me **dfasfa@gmail.com**
+- 📫 How to reach me **kamoteqv2@gmail.com**
 
 - 📄 Know about my experiences [http://myproject.cv](http://myproject.cv)
 
