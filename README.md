@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Frameworks, Javascript, PHP and etc.**
 
-- 👯 I’m looking to collaborate on [KamoteQ IoT ESP8266-NodeMCU](http://192.168.100.26:8181/settings/)
+<!-- - 👯 I’m looking to collaborate on [KamoteQ IoT ESP8266-NodeMCU](http://192.168.100.26:8181/settings/) -->
 
-- 🤝 I’m looking for help with [KamoteQ IoT ESP8266-NodeMCU](http://192.168.100.26:8181/settings/)
+<!-- - 🤝 I’m looking for help with [KamoteQ IoT ESP8266-NodeMCU](http://192.168.100.26:8181/settings/) -->
 
-- 👨‍💻 All of my projects are available at [http://myproject.link](http://myproject.link)
+<!-- - 👨‍💻 All of my projects are available at [http://myproject.link](http://myproject.link) -->
 
-#- 📝 I regularly write articles on [http://myproject.blog](http://myproject.blog)
+<!-- - 📝 I regularly write articles on [http://myproject.blog](http://myproject.blog) -->
 
 - 📫 How to reach me **kamoteqv2@gmail.com**
 
