@@ -17,11 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [http://myproject.link](http://myproject.link)
 
-- 📝 I regularly write articles on [http://myproject.blog](http://myproject.blog)
+#- 📝 I regularly write articles on [http://myproject.blog](http://myproject.blog)
 
 - 📫 How to reach me **kamoteqv2@gmail.com**
 
-- 📄 Know about my experiences [http://myproject.cv](http://myproject.cv)
+<!-- - 📄 Know about my experiences [http://myproject.cv](http://myproject.cv) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
