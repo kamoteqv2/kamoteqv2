@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [KAMOTEQ esp8266 nodeMCU firmware](https://github.com/kamoteqv2/kamoteq-repo)
 
-- 🌱 I’m currently learning **Frameworks, Javascript, PHP and etc.**
+<!-- - 🌱 I’m currently learning **Frameworks, Javascript, PHP and etc.** -->
 
 <!-- - 👯 I’m looking to collaborate on [KamoteQ IoT ESP8266-NodeMCU](http://192.168.100.26:8181/settings/) -->
 
